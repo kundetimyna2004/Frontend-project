@@ -1,7 +1,7 @@
 import { Link, Outlet, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { getCartCount } from "../utils/cart";
-import "./dashboard.css";
+import "./Dashboard.css";
 import { FaShoppingCart, FaSignOutAlt } from "react-icons/fa";
 
 const Dashboard = () => {
