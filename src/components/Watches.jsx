@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import "./products.css";
+import "./Products.css";
 import { addToCart } from "../utils/cart";
 import { FaCartPlus } from "react-icons/fa";
 
